@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#export PATH_ENTRADA="/home/santi/Documents/TP2-20180519T214819Z-001/TP2/Ejercicio 5/entrada"
+#export PATH_SALIDA="/home/santi/Documents/TP2-20180519T214819Z-001/TP2/Ejercicio 5/salida"
+
 if [ $# -ne 1 ]; then
     echo 'La cantidad de parámetros enviados es incorrecta.'
 fi
@@ -10,7 +13,7 @@ touch $dir
 path=$(readlink -f $dir)
 
 listen() {
-    echo $$
+    echo "El PID del proceso es $$"
 
     zipear() {
         # muevo a la carpeta de entrada para operar
