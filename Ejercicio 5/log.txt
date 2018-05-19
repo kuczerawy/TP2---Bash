@@ -1,0 +1,11 @@
+19-05-2018 17:44:03 | Comprimidos 2 archivos en entrada (19-05-2018 17:44:03).zip. Tamaño del .zip: .000324 megabytes.
+19-05-2018 17:44:31 | Comprimidos 2 archivos en entrada (19-05-2018 17:44:31).zip. Tamaño del .zip: .000324 megabytes.
+19-05-2018 18:09:43 | Eliminados 6 archivos. Espacio liberado: .005888 megabytes.
+19-05-2018 18:58:10 | Eliminados 0 archivos. Espacio liberado: .004096 megabytes.
+19-05-2018 18:59:35 | Comprimidos 3 archivos en entrada (19-05-2018 18:59:35).zip. Tamaño del .zip: .076228 megabytes.
+19-05-2018 18:59:52 | Eliminados 1 archivos. Espacio liberado: .080324 megabytes.
+19-05-2018 19:00:19 | Comprimidos 3 archivos en entrada (19-05-2018 19:00:19).zip. Tamaño del .zip: .076228 megabytes.
+19-05-2018 19:01:11 | Comprimidos 3 archivos en entrada (19-05-2018 19:01:11).zip. Tamaño del .zip: .076228 megabytes.
+19-05-2018 19:01:51 | Eliminados 2 archivos. Espacio liberado: .156552 megabytes.
+19-05-2018 19:06:53 | Comprimidos 3 archivos en entrada (19-05-2018 19:06:53).zip. Tamaño del .zip: .076228 megabytes.
+19-05-2018 19:07:08 | Eliminados 1 archivos. Espacio liberado: .076228 megabytes.
